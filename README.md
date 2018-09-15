@@ -1,12 +1,9 @@
 ## IOs_App_Maria
 
 ### App Description
-`TODO://` Code testing app
-
+`TODO://` Creating a Hello app
 ### App Walk-though
-
-
-<img src="http://recordit.co/CwOO5uyXzK" width=200><br>
+<img src="http://g.recordit.co/CwOO5uyXzK.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
@@ -21,4 +18,4 @@
    - [x] a. User can enter text into a text field using the keyboard.
    - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.
    - [x] c. If the text field is empty, update label with default text string.
-   - [x]. The keyboard is dismissed after the button has been tapped.
+   - [x] d. The keyboard is dismissed after the button has been tapped.
