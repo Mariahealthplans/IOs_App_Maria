@@ -4,8 +4,6 @@
 `TODO://` Code testing app
 
 ### App Walk-though
-
-
 <img src="http://recordit.co/CwOO5uyXzK" width=200><br>
 
 ### Required User Stories
